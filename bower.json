@@ -8,8 +8,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "avCommon": "https://github.com/agoravoting/agora-gui-common.git#next",
-    "avCommon": "https://github.com/EGCAgoraVotingAccG2/agora-gui-common.git#develop",
+    "avCommon": "https://github.com/EGCAgoraVotingAccG2/agora-gui-common.git#master",
     "angular-local-storage": "~0.2.3"
   }
 }
